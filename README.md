@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: Added pulling out the sword and defeating the dragon
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
