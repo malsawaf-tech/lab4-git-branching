@@ -10,14 +10,14 @@ Branches in this repo (with details):
     994a80e | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-09-17T23:36:29-04:00 | Added a center path
     6a75e18 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:16:02Z | Auto-update branch-info.txt
 - main
-  SHA: 4a90dd355c38d33444092863bfe0e9aea4840503
-  Commits: 5
+  SHA: b743ff85411f3e2d548cf5af61cde20abdeea11a
+  Commits: 10
   Recent commits:
-    4a90dd3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:47:47Z | Auto-update branch-info.txt
-    a9e91a5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:45:41Z | Auto-update branch-info.txt
-    994a80e | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-09-17T23:36:29-04:00 | Added a center path
-    6a75e18 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:16:02Z | Auto-update branch-info.txt
-    6cdaa75 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-17T23:15:51-04:00 | Initial commit
+    b743ff8 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-09-17T23:57:08-04:00 | Merge branch 'villain-path'
+    c944b1d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-18T03:55:24Z | Auto-update branch-info.txt
+    11de1a0 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-09-18T03:54:48Z | updated readme
+    4389de9 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-09-18T03:53:32Z | Added evil
+    4a375a6 | Author: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Committer: Mostafa Al-sawaf <232136496+malsawaf-tech@users.noreply.github.com> | Date: 2025-09-18T03:52:28Z | Added squirrel duel
 - villain-path
   SHA: 11de1a011cbbc52dfa85d004b2ec0604c2a65446
   Commits: 8
