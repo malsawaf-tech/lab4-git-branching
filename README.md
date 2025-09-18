@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: Added dueling the squirrel and becoming evil
 
 ## Final Checklist
 
