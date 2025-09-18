@@ -13,6 +13,7 @@ def intro():
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You pull it out and feel a surge of power!")
+    print("With this sword, you defeat a nearby dragon and become a hero!")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
